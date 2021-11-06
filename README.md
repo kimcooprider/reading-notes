@@ -1,9 +1,9 @@
-## DeltaV Code Reading Notes
+# DeltaV Code Reading Notes
 **Learning Journal for Discussion Assignments**
 
 [My GitHub Page](https://kimcooprider.github.io/reading-notes/)
 
-# Reading Notes
+## Reading Notes
 
 - Class 1 Reading
 - Class 2 Reading
