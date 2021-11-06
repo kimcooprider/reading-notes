@@ -5,7 +5,8 @@
 
 ## Reading Notes
 
-- Class 1 Reading
+[Class 1 Reading](/classOne.md)
+- 
 - Class 2 Reading
 - Class 3 Reading
 
