@@ -3,12 +3,11 @@
 
 [My GitHub Page](https://kimcooprider.github.io/reading-notes/)
 
-# Class 1 Reading
-## Class 2 Reading
-### Class 3 Reading
+# Reading Notes
 
-- Bulleted
-- List
+- Class 1 Reading
+- Class 2 Reading
+- Class 3 Reading
 
 1. Numbered
 2. List
