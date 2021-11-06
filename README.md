@@ -1,5 +1,5 @@
 # DeltaV Code Reading Notes
-**Learning Journal for Discussion Assignments**
+_**Learning Journal for Discussion Assignments**_
 
 [My GitHub Page](https://kimcooprider.github.io/reading-notes/)
 
