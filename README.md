@@ -10,11 +10,3 @@
 [Class 2 Reading](/classTwo.md)
 
 [Class 3 Reading](/classThree.md)
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
