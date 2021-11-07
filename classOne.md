@@ -9,4 +9,3 @@ Three reminders to myself of how to keep myself in a growth mindset
 2. Remember to keep and open mind.
 3. Constantly challenge old and current ways of thinking and processes.
 
-&bob
