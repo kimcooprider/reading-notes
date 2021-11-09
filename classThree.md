@@ -1,6 +1,6 @@
 Class #3
 
-** Git -Distributed Version Control System (DVCS) **
+**Git -Distributed Version Control System (DVCS)**
 
 Git Commit is like a “save as” or snapshot and can leave a message
 
@@ -10,7 +10,7 @@ Repos = Repositories = collection of files
 
 One project per Repo
 
-** ACP process -Add, Commit, and Push
+**ACP process -Add, Commit, and Push**
 
 __Important Git Commands__
 
