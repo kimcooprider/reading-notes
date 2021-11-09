@@ -12,3 +12,11 @@ _**Learning Journal for Discussion Assignments**_
 [Class 3 Reading](/classThree.md)
 
 [Class 4 Reading](/classFour.md)
+
+[Class 5 Reading](/classFive.md)
+
+[Class 6 Reading](/classSix.md)
+
+[Class 7 Reading](/classSeven.md)
+
+[Class 8 Reading](/classEight.md)
