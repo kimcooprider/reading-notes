@@ -2,18 +2,18 @@
 # HTML -HyperText Markup Language #
 
 __Anatomy of HTML element__
-	Opening Tag <p>  begin element
-	Closing Tag </p>  end element
-	Content  text
-	Element -the above combined
+	* Opening Tag <p>  begin element
+	* Closing Tag </p>  end element
+	* Content  text
+	* Element -the above combined
 
 * Attributes
-	Contain extra information
+	* Contain extra information
 		ie. Attribute Name, Attribute Value
-	Needs 3 things	
-A space between it and the element name (or the previous attribute if the element has more than one attribute
-Attribute Name followed by equal sign
-Attribute Wrapped by opening/closing quotation marks.
+	* Needs 3 things	
+1. A space between it and the element name (or the previous attribute if the element has more than one attribute
+2. Attribute Name followed by equal sign
+3. Attribute Wrapped by opening/closing quotation marks.
 
 * Nesting Elements
 	Elements inside other elements
@@ -24,16 +24,15 @@ Attribute Wrapped by opening/closing quotation marks.
 	<img src="images/firefox-icon.png" alt="My test image">
 
 * Anatomy of HTML
-<!DOCTYPE html>  It is a required preamble. (links for set of rules for document to behave correctly.
-<html></html> wraps page Root Element
-<head></head> container -stuff you want to in include but not show
-<meta charset="utf-8"> 
-<title></title>  -title of your page/browser tab/bookmark description
-<body></body> -contains all content you want to show user
+* <!DOCTYPE html>  It is a required preamble. (links for set of rules for document to behave correctly.
+* <html></html> wraps page Root Element
+* <head></head> container -stuff you want to in include but not show
+* <meta charset="utf-8"> 
+* <title></title>  -title of your page/browser tab/bookmark description
+* <body></body> -contains all content you want to show user
 
 
-
-Wireframing - a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. Based on research done prior about how want user to process info on site. Helps figure out how user interacts with interface and can use freehand or software tools.
+**Wireframing** *- a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. Based on research done prior about how want user to process info on site. Helps figure out how user interacts with interface and can use freehand or software tools.* 
 
 __Steps to create wireframe skeleton__
 
