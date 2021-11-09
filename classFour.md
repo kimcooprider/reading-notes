@@ -1,13 +1,13 @@
 
-HTML -HyperText Markup Language
+#HTML -HyperText Markup Language#
 
-Anatomy of HTML element
+__Anatomy of HTML element__
 	Opening Tag <p>  begin element
 	Closing Tag </p>  end element
 	Content  text
 	Element -the above combined
 
-Attributes
+-Attributes
 	Contain extra information
 		ie. Attribute Name, Attribute Value
 	Needs 3 things	
