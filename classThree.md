@@ -1,6 +1,6 @@
 Class #3
 
-** Git -Distributed Version Control System (DVCS)
+** Git -Distributed Version Control System (DVCS) **
 
 Git Commit is like a “save as” or snapshot and can leave a message
 
