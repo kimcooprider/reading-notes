@@ -10,3 +10,5 @@ _**Learning Journal for Discussion Assignments**_
 [Class 2 Reading](/classTwo.md)
 
 [Class 3 Reading](/classThree.md)
+
+[Class 4 Reading](/classFour.md)
