@@ -1,4 +1,4 @@
-<h1> CSS -Cascading Style Sheets
+<h1> CSS -Cascading Style Sheets </h1>
 
 CSS -Cascading Style Sheets
   * CSS is a rule-based language for specifying how documents are presented to users — how they are styled, laid out, effects (i.e. animation), etc. 
