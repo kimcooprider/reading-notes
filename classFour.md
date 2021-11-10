@@ -11,9 +11,9 @@ __Anatomy of HTML element__
 	* Contain extra information
 		ie. Attribute Name, Attribute Value
 	* Needs 3 things	
-1. A space between it and the element name (or the previous attribute if the element has more than one attribute
-2. Attribute Name followed by equal sign
-3. Attribute Wrapped by opening/closing quotation marks.
+		1. A space between it and the element name (or the previous attribute if the element has more than one attribute
+		2. Attribute Name followed by equal sign
+		3. Attribute Wrapped by opening/closing quotation marks.
 
 * Nesting Elements
 	Elements inside other elements
@@ -24,12 +24,12 @@ __Anatomy of HTML element__
 	<img src="images/firefox-icon.png" alt="My test image">
 
 * Anatomy of HTML
-* <!DOCTYPE html>  It is a required preamble. (links for set of rules for document to behave correctly.
-* <html></html> wraps page Root Element
-* <head></head> container -stuff you want to in include but not show
-* <meta charset="utf-8"> 
-* <title></title>  -title of your page/browser tab/bookmark description
-* <body></body> -contains all content you want to show user
+	* <!DOCTYPE html>  It is a required preamble. (links for set of rules 	for document to behave correctly.
+	* <html></html> wraps page Root Element
+	* <head></head> container -stuff you want to in include but not show
+	* <meta charset="utf-8"> 
+	* <	title></title>  -title of your page/browser tab/bookmark 		description
+	* 	<body></body> -contains all content you want to show user
 
 
 **Wireframing** *- a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. Based on research done prior about how want user to process info on site. Helps figure out how user interacts with interface and can use freehand or software tools.* 
@@ -41,23 +41,23 @@ __Steps to create wireframe skeleton__
 	Competitor and industry trends and best practices
 
 8 Quick Ref/Cheat Sheet
-Business and User goals based on research, personas, use cases, features of competitor sites
+* Business and User goals based on research, personas, use cases, features of competitor sites
 
 * Map Out User Flow
 Information architecture for user self-sufficiency
 
 * Draft/Sketch (don’t draw/illustrate)
-Organize content to support user goals
-Prioritize prominent info - main message, see first, user expectation, buttons and touchpoints to complete desired actions	
-Collaborate with others
+	* Organize content to support user goals
+	* Prioritize prominent info - main message, see first, user expectation, buttons and touchpoints to complete desired actions	
+	* Collaborate with others
 
 * Add detail and test
-Usability, Simple instruction/call to action, Trust-building elements	
-Run tests (test screens -UsabilityHub)
+* Usability, Simple instruction/call to action, Trust-building elements	
+* Run tests (test screens -UsabilityHub)
 
 * Convert wireframes to prototypes
-Creating hi-fi using Sketch and Figma
-Import to InVision
+* Creating hi-fi using Sketch and Figma
+* Import to InVision
 
 	
 Three keys to making a good wireframe
