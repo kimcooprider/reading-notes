@@ -40,7 +40,7 @@ __Steps to create wireframe skeleton__
 	Define Audience, detailing requirements, user personas, define use cases, 
 	Competitor and industry trends and best practices
 
-8 Quick Ref/Cheat Sheet
+	* Quick Ref/Cheat Sheet
 * Business and User goals based on research, personas, use cases, features of competitor sites
 
 * Map Out User Flow
