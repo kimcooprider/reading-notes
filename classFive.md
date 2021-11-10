@@ -33,3 +33,12 @@ Inserting CSS
 	* color -specifies text color
   	* initial -sets the property to default value
 	* inherit -inherits front the parent element
+	
+CSS Selectors
+	* Simple selectors -selects HTML based on element name
+	* ID selector - uses id attribute of HTML element to select a specific element
+		* Use (#) followed by the id of the element
+	* Class selector -selects HTML elements with specific class attribute
+		* Use (.) followed by the class name (cannot start with a number)
+	* Universal selector - selects all HTML elements on the page
+
