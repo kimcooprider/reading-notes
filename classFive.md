@@ -30,6 +30,6 @@ Inserting CSS
 	  * color: 00ff00;
 	  * color: rgb(0,0,255);
 
-	  * color -specifies text color
+	* color -specifies text color
   	* initial -sets the property to default value
-	  * inherit -inherits front the parent element
+	* inherit -inherits front the parent element
